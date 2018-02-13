@@ -1,0 +1,23 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushantjawa/node-notes.git"
+  },
+  "author": "Sushant Jawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushantjawa/node-notes/issues"
+  },
+  "homepage": "https://github.com/sushantjawa/node-notes#readme",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "yargs": "^4.7.1"
+  }
+}

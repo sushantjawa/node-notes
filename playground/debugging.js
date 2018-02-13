@@ -1,0 +1,1 @@
+var person={name:'sush'};
